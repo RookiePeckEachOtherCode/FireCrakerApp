@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FireCraker</string>
+    <string name="home">主页</string>
+    <string name="news">动态</string>
+    <string name="account">我的</string>
+    <string name="debug">调试</string>
+</resources>
